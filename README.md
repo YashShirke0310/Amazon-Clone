@@ -3,7 +3,7 @@
 This is a front-end clone of the Amazon homepage built using **HTML** and **CSS** only. It's a responsive and visually inspired recreation of the Amazon India layout, created as a portfolio project.
 
 ## 🔗 Live Preview
-(https://YashShirke0310.github.io/amazon-clone/)  
+(https://YashShirke0310.github.io/Amazon-Clone/)  
 
 
 ## 🚀 Features
