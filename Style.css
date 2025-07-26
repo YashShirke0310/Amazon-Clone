@@ -19,7 +19,7 @@
     width : 100px;
 }
 .logo{
-    background-image:url("Images/Amazon_logo.png");
+    background-image:url("Amazon_logo.png");
     background-size: cover;
     height: 70px;
     width : 100%;
@@ -147,7 +147,7 @@ span{
 
     /** hero **/
 .hero{
-    background-image:url("Images/background.jpg");
+    background-image:url("background.jpg");
     background-size: cover;
     height:310px;
     display:flex;
@@ -254,7 +254,7 @@ ul p{
 }
 
 .logo{
-    background-image:url("Images/Amazon_logo.png");
+    background-image:url("Amazon_logo.png");
     background-size: cover;
     height: 70px;
     width : 100px;
